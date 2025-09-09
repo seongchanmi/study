@@ -10,13 +10,13 @@
 
 <details>
 
-<summary> <h2> 1주차 </h2> </summary>
+<summary><h2>1주차</h2></summary>
 
 <div markdown="1">
 
+&nbsp; 
 
-
-\[블로그로 정리] (https://velog.io/@seongchnm/이것이-자바다-Chapter1-자바-시작하기)
+&nbsp; \[블로그로 정리](https://velog.io/@seongchnm/이것이-자바다-Chapter1-자바-시작하기)
 
 
 
