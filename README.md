@@ -22,7 +22,7 @@
 
 
 
-\[블로그로 정리] (https://velog.io/@seongchnm/이것이-자바다-Chapter1-자바-시작하기)
+\[블로그로 정리](https://velog.io/@seongchnm/이것이-자바다-Chapter1-자바-시작하기)
 
 
 
