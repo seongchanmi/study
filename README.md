@@ -12,7 +12,7 @@
 
 <details>
 
-&nbsp; 
+ 
 
 <summary><h2>1주차</h2></summary>
 
